@@ -1,0 +1,4 @@
+2025-05-20 08:59:18|DEBUG|failed to upload file to qiniu|{"Err":"incorrect region, please use up-z2.qiniup.com, bucket is: yunbaozhibo1024","Reqid":"pcoAAAAaazhmFkEY","Details":"","Code":400}
+2025-05-20 09:01:06|DEBUG|failed to upload file to qiniu|{"Err":"incorrect region, please use up-z2.qiniup.com, bucket is: yunbaozhibo1024","Reqid":"XRsAAAAwqUB_FkEY","Details":"","Code":400}
+2025-05-20 09:03:53|DEBUG|failed to upload file to qiniu|{"Err":"incorrect region, please use up-z2.qiniup.com, bucket is: yunbaozhibo1024","Reqid":"UXcAAACE0S2mFkEY","Details":"","Code":400}
+2025-05-20 09:36:21|DEBUG|succeed to upload file to qiniu|{"hash":"FisKuJklbs0PPhhmdu8QLVs5bt2c","key":"20250520093620_9c5106a53f18cc76b24a42069e2f962d"}
