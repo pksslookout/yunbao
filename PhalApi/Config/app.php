@@ -48,7 +48,7 @@ return array(
      */
     'UCloud' => array(
         //对应的文件路径  站点域名
-        'host' => 'http://47.120.57.7:81/upload'
+        'host' => 'http://wanmei.qingyu97.work/upload'
     ),
 		
 		/**

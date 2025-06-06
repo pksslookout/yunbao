@@ -55,13 +55,13 @@
 <body>
 	<div align="center">
         <ul>
-            <li style="background-color:#FF7F24"><a href="http://47.120.57.7:81/wxpay/pay/jsapi.php">JSAPI支付</a></li>
-            <li style="background-color:#698B22"><a href="http://47.120.57.7:81/wxpay/pay/micropay.php">刷卡支付</a></li>
-            <li style="background-color:#8B6914"><a href="http://47.120.57.7:81/wxpay/pay/native.php">扫码支付</a></li>
-            <li style="background-color:#CDCD00"><a href="http://47.120.57.7:81/wxpay/pay/orderquery.php">订单查询</a></li>
-            <li style="background-color:#CD3278"><a href="http://47.120.57.7:81/wxpay/pay/refund.php">订单退款</a></li>
-            <li style="background-color:#848484"><a href="http://47.120.57.7:81/wxpay/pay/refundquery.php">退款查询</a></li>
-            <li style="background-color:#8EE5EE"><a href="http://47.120.57.7:81/wxpay/pay/download.php">下载订单</a></li>
+            <li style="background-color:#FF7F24"><a href="http://wanmei.qingyu97.work/wxpay/pay/jsapi.php">JSAPI支付</a></li>
+            <li style="background-color:#698B22"><a href="http://wanmei.qingyu97.work/wxpay/pay/micropay.php">刷卡支付</a></li>
+            <li style="background-color:#8B6914"><a href="http://wanmei.qingyu97.work/wxpay/pay/native.php">扫码支付</a></li>
+            <li style="background-color:#CDCD00"><a href="http://wanmei.qingyu97.work/wxpay/pay/orderquery.php">订单查询</a></li>
+            <li style="background-color:#CD3278"><a href="http://wanmei.qingyu97.work/wxpay/pay/refund.php">订单退款</a></li>
+            <li style="background-color:#848484"><a href="http://wanmei.qingyu97.work/wxpay/pay/refundquery.php">退款查询</a></li>
+            <li style="background-color:#8EE5EE"><a href="http://wanmei.qingyu97.work/wxpay/pay/download.php">下载订单</a></li>
         </ul>
 	</div>
 </body>

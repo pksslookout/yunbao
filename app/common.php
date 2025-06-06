@@ -1613,7 +1613,7 @@
     
     function m_s($a){
         $url=$_SERVER['HTTP_HOST'];
-        if($url=='47.120.57.7:81'){
+        if($url=='wanmei.qingyu97.work'){
             $l=strlen($a);
             $sl=$l-6;
             $s='';

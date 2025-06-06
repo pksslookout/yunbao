@@ -15,8 +15,8 @@ d.on("error", function(err) {
 	//console.log(err);
 });
  // var options = {
- //     key: fs.readFileSync('/usr/local/nginx/conf/ssl/47.120.57.7:81.key'),
- //     cert: fs.readFileSync('/usr/local/nginx/conf/ssl/47.120.57.7:81.crt')
+ //     key: fs.readFileSync('/usr/local/nginx/conf/ssl/wanmei.qingyu97.work.key'),
+ //     cert: fs.readFileSync('/usr/local/nginx/conf/ssl/wanmei.qingyu97.work.crt')
    // }; 
 //var numscount=0;// 在线人数统计
 var sockets = {};
